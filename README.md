@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/jperezdelafuente/testing-spring-framework/tree/master.svg?style=svg)](https://circleci.com/gh/jperezdelafuente/testing-spring-framework/tree/master)
+
 # Spring Pet Clinic 
 
 All source code examples in the repository are for [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/) from [John Thompson](https://springframework.guru/about/)
